@@ -55,9 +55,9 @@ All of [Vedant Panchal](https://linkedin.com/in/vedantpanchal)'s projects.
 
 ## Documentation
 
-| Project             | Documentation                                                                       |
-| ------------------- | ----------------------------------------------------------------------------------- |
-| InShorts API Server | [link (built with Swagger UI)](https://inshorts-api-ugdzgasx3a-uc.a.run.app/v1/ui/) |
+| Project             | Tool    | Documentation                                               |
+| ------------------- | ------- | ----------------------------------------------------------- |
+| InShorts API Server | Swagger | [link](https://inshorts-api-ugdzgasx3a-uc.a.run.app/v1/ui/) |
 
 ## Cybersecurity Projects
 
