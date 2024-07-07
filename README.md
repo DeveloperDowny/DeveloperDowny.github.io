@@ -1,5 +1,13 @@
 # Vedant Panchal's Projects
 
+Best of [Vedant Panchal](https://linkedin.com/in/vedantpanchal)'s projects.
+
+Project Name | Tech Stack | Description | Link
+---|---|---|---
+TechRace 2023 | Flutter, Firebase, Express.js, DigitalOcean | A game application for TechRace 2023, an official college event. Features location-based clues, power-ups, player blocking, and leaderboards. Handled 300+ simultaneous users with consideration for concurrency and race conditions. | [Mobile App](https://github.com/DeveloperDowny/techrace_2023#annotated-screenshots-of-the-techrace-2023-app), [Backend](https://github.com/DeveloperDowny/techrace_2023/tree/main/techrace_backend) | -| 
+Dyslearnzia | Next.js, React.js, Tailwind, Material UI, Express.js, MySQL, AWS | A learning management solution specifically designed for dyslexic students. | -
+That's A 10 | Next.js, Tailwind, Express.js, Stripe | A landing page for a creative design agency with advanced animations using GSAP and Framer Motion. Features Stripe integration for payments and MailerSend for email services. | [https://ta10.vercel.app](https://ta10.vercel.app)
+
 All of [Vedant Panchal](https://linkedin.com/in/vedantpanchal)'s projects.
 
 ## Web Apps
