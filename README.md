@@ -17,22 +17,24 @@ All of [Vedant Panchal](https://linkedin.com/in/vedantpanchal)'s projects.
 | Personal Intro Post Designer | HTML, CSS, JavaScript                    | Flask, Heroku                      |       [link](https://insta-post-designer.herokuapp.com/)       |       [link](https://github.com/DeveloperDowny/personal_intro_post_designer)       |
 | TechRace 2023 Backend        | -                                        | Express.js, Firebase, DigitalOcean |                               -                                | [link](https://github.com/DeveloperDowny/techrace_2023/tree/main/techrace_backend) |
 | Easecee                      | React.js                                 | -                                  |              [link](https://easecee.vercel.app/)               |                 [link](https://github.com/DeveloperDowny/easecee)                  |
-| Tip Calculator               | Flutter                                  | -                                  |                               -                                |              [link](https://github.com/DeveloperDowny/tip_calculator)              |
 | Calculator CI/CD             | React.js, Netlify                        | -                                  |                               -                                |                 [link](https://github.com/DeveloperDowny/ci_cd_v1)                 |
 
 ## Mobile Apps
 
 | Mobile App                | Tech Stack                | Live Demo |                                Repo                                 |
 | ------------------------- | ------------------------- | --------- | :-----------------------------------------------------------------: |
-| TechRace 2023             | Flutter, Firebase         | -         |       [link](https://github.com/DeveloperDowny/techrace-2023)       |
-| Oxon App                  | -                         | -         |         [link](https://github.com/DeveloperDowny/oxon_app)          |
+| TechRace 2023             | Flutter, Firebase         | -         |       [link](https://github.com/DeveloperDowny/techrace_2023)       |
+| VSM 2023             | Flutter, Firebase         | -         |       [link](https://github.com/DeveloperDowny/vsm-2023)       |
+| Oxon App                  | Flutter, Firebase, Google Maps                         | -         |         [link](https://github.com/DeveloperDowny/oxon_app)          |
+| Tip Calculator               | Flutter                                  | -                                  |                               -                                |              [link](https://github.com/DeveloperDowny/tip_calculator)              |
 | Media Addiction Detection | Flutter, Firebase, Python | -         | [link](https://github.com/DeveloperDowny/media_addiction_detection) |
+
 
 ## Chrome Extensions
 
 | Extension                 | Tech Stack |                                Repo                                 |
 | ------------------------- | ---------- | :-----------------------------------------------------------------: |
-| Random DSA Problem Opener | JavaScript | [link](https://github.com/DeveloperDowny/random-dsa-problem-opener) |
+| Random DSA Problem Opener | JavaScript | [link](https://github.com/DeveloperDowny/random_dsa_problem_opener) |
 
 ## Scripts and Tools
 
@@ -48,10 +50,10 @@ All of [Vedant Panchal](https://linkedin.com/in/vedantpanchal)'s projects.
 | ------------------------------------- | -------------------------------------- | :-----------------------------------------------------------------: |
 | Anomalous Transaction Detector        | Python, Scikit-learn, Isolation Forest |  [link](https://github.com/DeveloperDowny/anomalous_transactions)   |
 | Most Information Frame Extractor      | Python, OpenCV                         | [link](https://github.com/DeveloperDowny/most_info_frame_extractor) |
-| StoicBite - AI-Generated Stoic Wisdom | Python, GPT-4                          |         [link](https://github.com/DeveloperDowny/StoicBite)         |
+| StoicBite - AI-Generated Stoic Wisdom | Python, GPT-4o                          |         [link](https://github.com/DeveloperDowny/StoicBite)         |
 | Face Recognition Flask Server         | Python, Flask                          |  [link](https://github.com/DeveloperDowny/face_recog_flask_server)  |
-| Keystroke Dynamics                    | Flutter                                |       [link](https://github.com/deewhy26/keystroke-dynamics)        |
-| Datathon IndoML23                     | NLP                                    |        [link](https://github.com/deewhy26/datathon_indoml23)        |
+| Keystroke Dynamics                    | Flutter                                |       [link](https://github.com/DeveloperDowny/keystroke_dynamics_v2)        |
+| Datathon IndoML23                     | NLP                                    |        [link](https://github.com/DeveloperDowny/datathon_indoml23)        |
 
 ## Documentation
 
